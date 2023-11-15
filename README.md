@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Screenshot of the Desktop project
 
-![Mobile Preview](./screenshots/Mobile_preview.png)
+![Mobile Preview](./screenshots/mobile_preview.png)
 
 Screenshot of the Mobile project
 ### Links
